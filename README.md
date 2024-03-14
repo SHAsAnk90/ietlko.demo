@@ -1,2 +1,3 @@
 # ietlko.demo
-This is my first repo
+This is my first Github Repo
+Arthur - Shashank Singh
